@@ -1,0 +1,11 @@
+'Tec-Arm-217'/Seguridad/Tecnologia/Armando/#120/$1200/0
+'Tec-Jos-678'/Redes/Tecnologia/Jose/#24/$3500/0
+'Inf-Mau-500'/Diagramado/Informatica/Mauricio/#12/$2000/0
+'Inf-Art-999'/Seguridad/Informatica/Arturo/#20/$5000/0
+'Sof-Hec-378'/Arquitectura/Software/Hector/#15/$1500/0
+'Tec-Mar-312'/Programacion/Tecnologia/Mariana/#30/$2500/0
+'Sof-Luc-214'/Desarrollo-Web/Software/Lucia/#18/$3000/0
+'Inf-Jav-874'/Bases-de-Datos/Informatica/Javier/#22/$4000/0
+'Tec-Ana-110'/Ciberseguridad/Tecnologia/Ana/#25/$3500/0
+'Sof-Rob-529'/Desarrollo-Movil/Software/Roberto/#28/$2800/0
+'Hab-Sam-508'/Comunicacion/Habililades blandas/Samir/#12/$12/0

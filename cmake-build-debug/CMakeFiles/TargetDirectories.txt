@@ -1,0 +1,3 @@
+A:/Universidad/Tercer cuatri/P.O.O/Proyecto Progra Final/cmake-build-debug/CMakeFiles/Proyecto_Progra_Final.dir
+A:/Universidad/Tercer cuatri/P.O.O/Proyecto Progra Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/Universidad/Tercer cuatri/P.O.O/Proyecto Progra Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
